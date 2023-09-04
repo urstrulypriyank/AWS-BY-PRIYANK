@@ -1,6 +1,11 @@
 # AWS services and features that I ll try to cover for AWS certified solution architect (SAA-C03)
 We will not be covering all the services ,approach will be to explore the services by performing labs and reading aws documentation for more refrence
 
+### To get most out of this repo follow step by step and read aws docs 
+
+# Fist step will be to understand AWS SAA-c03 exam pattern by reading exam guide 
+https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
+
 ## Index
 
 - [Lab 1 - IAM]
