@@ -3,7 +3,7 @@ We will not be covering all the services ,approach will be to explore the servic
 
 ### To get most out of this repo follow step by step and read aws docs 
 
-## Fist step will be to understand AWS SAA-c03 exam pattern by reading exam guide 
+### Fist step will be to understand AWS SAA-c03 exam pattern by reading exam guide 
 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 
 ## Index
