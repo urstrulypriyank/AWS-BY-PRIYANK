@@ -8,7 +8,7 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-
 
 ## Index
 
-- [Lab 1 - IAM]
+- [Lab 1 - IAM](https://github.com/urstrulypriyank/AWS-BY-PRIYANK/blob/main/Day-01%20%7C%20IAM/README.md)
 
 
 ## Analytics:
