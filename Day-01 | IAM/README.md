@@ -40,7 +40,7 @@ Three step user process for user creation.
 
 2.3. Choose the permission that will be associated with this group. This means that any user added to this group will have these permissions. For this tutorial we will choose **AdministratorAccess** permission and click on **Next Step**.
 
-![Image 04](https://drive.google.com/file/d/1uZWfNAMZ-L7Us8URqyP7csjIVE6Sw2Ev/view?usp=sharing)
+![Image 04](https://drive.google.com/u/1/uc?id=1uZWfNAMZ-L7Us8URqyP7csjIVE6Sw2Ev&export=download)
 
 2.4. To finish, click **Create Group**.
 - To create groups go to User Groups in IAM 
