@@ -15,13 +15,13 @@ In this part, we will create a user with administrator permissions through the A
    1.2. Click on **Users**
    1.3. Click on **Create User**
 
-![Image 01](https://drive.google.com/file/d/1f5_Pw0ewqwiSuPdCBc6LUMbFyD-H3hPO&export=download)
+![Image 01](https://drive.google.com/u/1/uc?id=1f5_Pw0ewqwiSuPdCBc6LUMbFyD-H3hPO&export=download)
 
 
    1.4. Define the user name, choosing the access type.
    using permissions options, we can attach policies directly like *AWS Management Console Access*, to allow login and access through the AWS console. Click **Next: Permissions**.
 Three step user process for user creation.
-![Image 02](https://drive.google.com/file/d/1FX-eiZbK_jFdgSQEewIE50waACdKvO&export=download)
+![Image 02](https://drive.google.com/u/1/uc?id=1FX-eiZbK_jFdgSQEewIE50waACdKvO&export=download)
 
    1.5. The groups part would be where we include this user in a group, but we will cover the groups part in another part of this tutorial.
 
