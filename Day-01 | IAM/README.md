@@ -15,13 +15,13 @@ In this part, we will create a user with administrator permissions through the A
    1.2. Click on **Users**
    1.3. Click on **Create User**
 
-![Image 01](https://drive.google.com/file/d/1f5_Pw0ewqwiSuPdCBc6LUMbFyD-H3hPO/view?usp=drive_link)
+![Image 01](https://drive.google.com/file/d/1f5_Pw0ewqwiSuPdCBc6LUMbFyD-H3hPO&export=download)
 
 
    1.4. Define the user name, choosing the access type.
    using permissions options, we can attach policies directly like *AWS Management Console Access*, to allow login and access through the AWS console. Click **Next: Permissions**.
 Three step user process for user creation.
-![Image 02](https://drive.google.com/file/d/1FX-eiZbK_jFdgSQEewIE50waACdKvO__/view?usp=drive_link)
+![Image 02](https://drive.google.com/file/d/1FX-eiZbK_jFdgSQEewIE50waACdKvO&export=download)
 
    1.5. The groups part would be where we include this user in a group, but we will cover the groups part in another part of this tutorial.
 
@@ -35,8 +35,6 @@ Three step user process for user creation.
 2.1. To create a group, go to the AWS IAM dashboard, click **User Groups** on the left side of the screen, then click **Create Group**
 
 2.2. Set the group name and click on **Next Step**.
-
-![Image 03](https://d2yblsmsldwfto.cloudfront.net/lab01/lab-01-iam-03.png)
 
 2.3. Choose the permission that will be associated with this group. This means that any user added to this group will have these permissions. For this tutorial we will choose **AdministratorAccess** permission and click on **Next Step**.
 
