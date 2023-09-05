@@ -7,7 +7,7 @@ We will not be covering all the services ,approach will be to explore the servic
 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 
 ## Index
-
+- [Lab 0 - Create AWS Free Tier Account](https://github.com/urstrulypriyank/AWS-BY-PRIYANK/blob/main/Day-00%20%7C%20Account%20Creation/README.md)
 - [Lab 1 - IAM](https://github.com/urstrulypriyank/AWS-BY-PRIYANK/blob/main/Day-01%20%7C%20IAM/README.md)
 
 
