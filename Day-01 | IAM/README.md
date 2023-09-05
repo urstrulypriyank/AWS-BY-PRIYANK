@@ -61,3 +61,7 @@ Three step user process for user creation.
 ![Image 07](https://d2yblsmsldwfto.cloudfront.net/lab01/lab-01-iam-07.png)
 
 4.4. Use Google Authenticator or Microsoft Authenticator to scan the QR Code and get the code to configure.
+
+
+**Resources For Reading**
+https://aws.amazon.com/iam/faqs/
