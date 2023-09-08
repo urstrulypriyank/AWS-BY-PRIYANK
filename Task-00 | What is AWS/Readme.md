@@ -10,17 +10,17 @@ there are min 3 and max of 6 avability zone per Region
 
 - A region consist of area of 100Km like(Mumbai, N.virgina etc ....)
 - Most AWS services are region scoped and priced accordingly, and few of them are global i.e region independent
-  ### Example of aws global servie
-- Identity and Access Management (IAM)
-- Route 53 (DNS service)
-- WAF (Web Application Firewall)
-- CloudFront (Content Delivery Network)
-- S3
-### Example of regional scoped services
- - Ec2
- - VPC
- - Lambda
- - EKS/ ECS
+    ### Example of aws global servie
+    - Identity and Access Management (IAM)
+    - Route 53 (DNS service)
+    - WAF (Web Application Firewall)
+    - CloudFront (Content Delivery Network)
+    - S3
+    ### Example of regional scoped services
+    - Ec2
+    - VPC
+    - Lambda
+    - EKS/ ECS
 ***Factors to choose region***
 proximity, Pricing, Available services , compliance 
 
