@@ -25,5 +25,5 @@ there are min 3 and max of 6 avability zone per Region
 proximity, Pricing, Available services , compliance 
 
 ### Point of presence 
-    They are the edge location to faster delivery or used for caching | used to deliver content in low latency 
+They are the edge location to faster delivery or used for caching | used to deliver content in low latency 
 
