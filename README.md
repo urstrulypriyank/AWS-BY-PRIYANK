@@ -7,6 +7,7 @@ We will not be covering all the services ,approach will be to explore the servic
 https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
 
 ## Index
+- [Introduciton](https://github.com/urstrulypriyank/AWS-BY-PRIYANK/blob/main/Task-00%20%7C%20What%20is%20AWS/Readme.md)
 - [Task 0 - Create AWS Free Tier Account](https://github.com/urstrulypriyank/AWS-BY-PRIYANK/blob/main/Day-00%20%7C%20Account%20Creation/README.md)
 - [Task 1 - IAM](https://github.com/urstrulypriyank/AWS-BY-PRIYANK/blob/main/Day-01%20%7C%20IAM/README.md)
 - [Task 2 - AWS Budgets](https://github.com/urstrulypriyank/AWS-BY-PRIYANK/tree/main/Day-02%20%7C%20Billing%20and%20Alarms)
